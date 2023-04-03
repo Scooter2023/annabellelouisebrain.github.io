@@ -1,0 +1,15 @@
+body {
+	background-color: #B9E0ED ;
+
+}
+ 
+ img{ 
+border: 6px solid;
+border-color: #bab0d9;
+border-radius:5%;
+ }
+
+h1, h2, h3, h4, a, li {
+	font-family: 'Domine', serif;
+	font-family: 'Poppins', sans-serif;
+}
